@@ -1,4 +1,4 @@
-sprin:
+spring:
   application:
     name: Config-Server
 eureka:
